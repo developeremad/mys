@@ -1,0 +1,11 @@
+@media all and (max-width:1400px){
+    .view{
+        margin-bottom: 150px;
+    }
+    .lol{
+        width: 50%;
+    }
+    .price-item{
+        margin-bottom: 95px;
+    }
+}

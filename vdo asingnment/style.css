@@ -1,0 +1,118 @@
+
+.sp{
+    padding: 90px 0;
+}
+
+.cmnbtn{
+    display: inline-block;
+    background-color: #8490ff;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    transition: .2s;
+}
+.cmnbtn:hover{
+    background-color:  #303457;
+}
+
+
+
+/* banner css */
+.banner-part{
+    background-color: #f9f9ff;
+}
+
+.score{
+    background-color:#8490ff;
+}
+
+/* banner end */
+
+
+/* price section start */
+
+.price-sec{}
+.round-number{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #9b9bf893;
+    text-align: center;
+    
+}
+.round-number h1{
+    line-height: 90px;
+}
+
+.price-item{
+    background-color: #fff;
+    box-shadow:0 0 60px #a4a4e75b;
+}
+.prcbtn{
+    
+}
+
+/* price sec end */
+
+/* personal details */
+
+.detailimg .pimg{
+    position: relative;
+    border: 2px solid black;
+    top: -100px;
+    left: 20px;
+}
+
+.d-btn{
+   border: none;
+   color: black;
+}
+
+.personal-details{
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.233);
+}
+
+
+
+/* form start css */
+
+.lastform input{
+    padding: 20px ;
+    margin-bottom: 10px;
+    border: 2px solid #0588c5;
+}
+
+.lastform input:focus{
+    outline: none;
+    box-shadow: none;
+
+}
+
+.lastform textarea{
+    box-shadow: 0 0 10px #0588c5;
+
+}
+
+.lastform textarea:focus{
+    box-shadow: none;
+    box-shadow: 0 0 10px #0588c5;
+}
+
+.waw{
+    background-color: #17a2b8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
